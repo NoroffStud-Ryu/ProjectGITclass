@@ -10,3 +10,6 @@ def read_cars_file () :
             print ( row )
 # Run the function to read the file
 read_cars_file ()
+
+#comment
+# New comment 2
